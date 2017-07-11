@@ -8,5 +8,8 @@ package com.fly.search.main;
 public class FlySearchMain {
     public static void main(String[] args) {
         System.out.println("hello，项目初始化");
+        for (int i = 0; i < 100; i++) {
+			System.out.println("aa--->" + i);
+		}
     }
 }
